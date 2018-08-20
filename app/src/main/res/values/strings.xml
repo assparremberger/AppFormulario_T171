@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">AppFormulario</string>
+
+    <string name="txtNome">Nome: </string>
+    <string name="txtTelefone">Telefone: </string>
+    <string name="txtEmail">E-mail: </string>
+    <string name="txtCidade">Cidade: </string>
+    <string name="txtEstado">Estado: </string>
+    <string name="txtSexo">Sexo: </string>
+    <string name="txtAtividades">Atividades: </string>
+    <string name="txtCaminhada">Caminhada</string>
+    <string name="txtCorrida">Corrida</string>
+    <string name="txtFeminino">Feminino</string>
+    <string name="txtMasculino">Masculino</string>
+    <string name="txtFormulario">FORMULÁRIO </string>
+    <string name="txtSalvar">SALVAR</string>
+
+    <string name="hintNome">Digite aqui seu Nome: </string>
+    <string name="hintTelefone">Digite aqui seu Telefone: </string>
+    <string name="hintEmail">Digite aqui seu E-mail: </string>
+
+    <string name="selecioneEstado">Selecione um estado!</string>
+    <string name="selecione">Selecione...</string>
+
+    <string-array name="arrayEstados">
+        <item>Selecione...</item>
+        <item>AC</item>
+        <item>AL</item>
+        <item>AM</item>
+        <item>AP</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MT</item>
+        <item>MS</item>
+        <item>MG</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PR</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RS</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>SC</item>
+        <item>SP</item>
+        <item>SE</item>
+        <item>TO</item>
+    </string-array>
+
+
+</resources>
